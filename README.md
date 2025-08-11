@@ -1,6 +1,7 @@
 本文件是项目https://github.com/taksssss/iptv-tool 的扩展 增加了部分epg接口
 打开你的项目地址 :5678/assets/tinyfilemanager/index.php?p=
 下载文件替换即可 
+
 原官方支持
 
 TV猫    // 示例：tvmao, 湖南卫视
