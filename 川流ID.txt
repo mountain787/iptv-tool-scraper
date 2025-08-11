@@ -1,336 +1,306 @@
-bd_name: 巴中, channel: 3282
-bd_name: 巴中新闻综合, channel: 3283
-bd_name: 巴中经济生活, channel: 3284
-bd_name: 巴中, channel: 3285
-bd_name: 巴州新闻, channel: 3287
-bd_name: 巴州-1, channel: 3288
-bd_name: 恩阳新闻, channel: 3290
-bd_name: 恩阳, channel: 3291
-bd_name: 南江新闻综合, channel: 3292
-bd_name: 平昌新闻综合, channel: 3293
-bd_name: 通江新闻综合, channel: 3294
-bd_name: 成都新闻综合频道, channel: 3296
-bd_name: CDTV1, channel: 3297
-bd_name: 成都经济资讯频道, channel: 3298
-bd_name: 成都都市生活频道, channel: 3299
-bd_name: 成都影视文艺频道, channel: 3300
-bd_name: 成都公共频道, channel: 3301
-bd_name: CDTV6, channel: 3303
-bd_name: 安徽卫视, channel: 3326
-bd_name: 安徽卫视高清, channel: 3327
-bd_name: 车迷频道, channel: 3330
-bd_name: 优优宝贝, channel: 3331
-bd_name: 发现之旅, channel: 3332
-bd_name: 环球旅游, channel: 3333
-bd_name: 聚鲨环球, channel: 3334
-bd_name: 聚鲨环球, channel: 3335
-bd_name: 北京卫视, channel: 3337
-bd_name: 北京卫视高清, channel: 3338
-bd_name: 卡酷动画, channel: 3339
-bd_name: 纪实科教, channel: 3340
-bd_name: CCTV1, channel: 3341
-bd_name: CCTV1高清, channel: 3342
-bd_name: CCTV10, channel: 3343
-bd_name: CCTV10高清, channel: 3344
-bd_name: CCTV11, channel: 3345
-bd_name: CCTV12, channel: 3347
-bd_name: CCTV12高清, channel: 3348
-bd_name: CCTV2, channel: 3350
-bd_name: CCTV2高清, channel: 3351
-bd_name: CCTV3, channel: 3352
-bd_name: CCTV3高清, channel: 3353
-bd_name: CCTV4, channel: 3355
-bd_name: CCTV4高清, channel: 3356
-bd_name: CCTV5, channel: 3357
-bd_name: CCTV5+, channel: 3358
-bd_name: CCTV5高清, channel: 3359
-bd_name: CCTV6, channel: 3360
-bd_name: CCTV6高清, channel: 3361
-bd_name: CCTV7, channel: 3362
-bd_name: CCTV7高清, channel: 3363
-bd_name: CCTV8, channel: 3364
-bd_name: CCTV8高清, channel: 3365
-bd_name: CCTV9, channel: 3366
-bd_name: CCTV9高清, channel: 3367
-bd_name: CCTV15, channel: 3368
-bd_name: CCTV13, channel: 3369
-bd_name: CCTV14, channel: 3370
-bd_name: CCTV14高清, channel: 3371
-bd_name: 第一剧场, channel: 3374
-bd_name: 风云剧场, channel: 3375
-bd_name: 风云音乐, channel: 3376
-bd_name: 风云足球, channel: 3377
-bd_name: 高尔夫网球, channel: 3378
-bd_name: 国防军事, channel: 3379
-bd_name: 怀旧剧场, channel: 3380
-bd_name: 老故事, channel: 3381
-bd_name: 女性时尚, channel: 3383
-bd_name: 中国天气, channel: 3384
-bd_name: 书画, channel: 3385
-bd_name: 世界地理, channel: 3386
-bd_name: 央视精品, channel: 3388
-bd_name: 央视台球, channel: 3389
-bd_name: , channel: 3390
-bd_name: 中学生高清, channel: 3391
-bd_name: cetv1, channel: 3392
-bd_name: cetv1高清, channel: 3393
-bd_name: cetv2, channel: 3394
-bd_name: 早期教育, channel: 3395
-bd_name: 天元围棋, channel: 3397
-bd_name: 重庆卫视, channel: 3398
-bd_name: 重庆卫视高清, channel: 3399
-bd_name: 重庆娱乐, channel: 3400
-bd_name: 重庆汽摩, channel: 3401
-bd_name: 现代女性, channel: 3403
-bd_name: 四海钓鱼, channel: 3404
-bd_name: 凤凰中文台, channel: 3405
-bd_name: 凤凰资讯台, channel: 3407
-bd_name: 东南卫视高清, channel: 3410
-bd_name: , channel: 3412
-bd_name: , channel: 3414
-bd_name: 广东卫视高清, channel: 3415
-bd_name: CHC动作电影, channel: 3416
-bd_name: CHC高清电影, channel: 3418
-bd_name: CHC家庭影院, channel: 3419
-bd_name: 甘肃卫视, channel: 3421
-bd_name: 广西卫视, channel: 3424
-bd_name: , channel: 3425
-bd_name: 贵州卫视高清, channel: 3426
-bd_name: , channel: 3428
-bd_name: , channel: 3429
-bd_name: 河北卫视高清, channel: 3430
-bd_name: 河南卫视, channel: 3431
-bd_name: 梨园, channel: 3432
-bd_name: 武术世界, channel: 3433
-bd_name: 文物宝库, channel: 3434
-bd_name: 黑龙江卫视, channel: 3435
-bd_name: 黑龙江卫视高清, channel: 3436
-bd_name: , channel: 3438
-bd_name: 湖北卫视高清, channel: 3439
-bd_name: 茶, channel: 3441
-bd_name: 湖南卫视高清, channel: 3442
-bd_name: 湖南卫视高清, channel: 3443
-bd_name: 金鹰纪实, channel: 3444
-bd_name: , channel: 3445
-bd_name: 金鹰卡通, channel: 3446
-bd_name: 快乐垂钓高清, channel: 3448
-bd_name: , channel: 3449
-bd_name: 先锋乒羽, channel: 3450
-bd_name: 吉林卫视, channel: 3451
-bd_name: 财富天下, channel: 3453
-bd_name: 优漫卡通, channel: 3456
-bd_name: 江苏卫视, channel: 3457
-bd_name: 江苏卫视高清, channel: 3458
-bd_name: 风尚购物, channel: 3465
-bd_name: 江西卫视, channel: 3466
-bd_name: 江西卫视高清, channel: 3467
-bd_name: 辽宁卫视, channel: 3470
-bd_name: 辽宁卫视高清, channel: 3471
-bd_name: 家庭理财, channel: 3472
-bd_name: 新动漫, channel: 3473
-bd_name: 青海卫视, channel: 3474
-bd_name: , channel: 3475
-bd_name: 内蒙古卫视, channel: 3476
-bd_name: , channel: 3477
-bd_name: 宁夏卫视, channel: 3478
-bd_name: 中华美食高清, channel: 3490
-bd_name: 青海卫视, channel: 3491
-bd_name: 峨嵋电影频道, channel: 3492
-bd_name: , channel: 3494
-bd_name: 四川卫视, channel: 3495
-bd_name: 四川卫视高清, channel: 3496
-bd_name: 四川文化旅游, channel: 3497
-bd_name: sctv2高清, channel: 3498
-bd_name: , channel: 3499
-bd_name: sctv3高清, channel: 3500
-bd_name: 四川新闻资讯频道, channel: 3501
-bd_name: , channel: 3503
-bd_name: 四川影视高清, channel: 3504
-bd_name: , channel: 3505
-bd_name: 四川妇女儿童频道, channel: 3506
-bd_name: , channel: 3507
-bd_name: 四川科教频道, channel: 3508
-bd_name: 四川公共频道, channel: 3509
-bd_name: 山东教育, channel: 3512
-bd_name: 山东卫视, channel: 3513
-bd_name: 山东卫视高清, channel: 3514
-bd_name: 陕西卫视, channel: 3515
-bd_name: 陕西农林卫视, channel: 3516
-bd_name: 上视纪实, channel: 3517
-bd_name: 上视纪实高清, channel: 3518
-bd_name: 东方财经, channel: 3519
-bd_name: 上海, channel: 3520
-bd_name: 东方卫视高清, channel: 3521
-bd_name: , channel: 3522
-bd_name: 法制天地, channel: 3523
-bd_name: 七彩戏剧, channel: 3528
-bd_name: , channel: 3529
-bd_name: 生态环境, channel: 3530
-bd_name: 动漫秀场, channel: 3531
-bd_name: 动漫秀场高清, channel: 3532
-bd_name: 欢笑剧场, channel: 3533
-bd_name: 欢笑剧场高清, channel: 3534
-bd_name: 金色学堂, channel: 3535
-bd_name: 全纪实, channel: 3537
-bd_name: 全纪实高清, channel: 3538
-bd_name: 生活时尚, channel: 3539
-bd_name: 生活时尚高清, channel: 3540
-bd_name: 新视觉, channel: 3543
-bd_name: 新视觉高清, channel: 3544
-bd_name: 劲爆体育, channel: 3545
-bd_name: 劲爆体育高清, channel: 3546
-bd_name: 都市剧场, channel: 3547
-bd_name: 都市剧场高清, channel: 3548
-bd_name: 山西卫视, channel: 3551
-bd_name: , channel: 3552
-bd_name: 深圳卫视, channel: 3555
-bd_name: 深圳卫视高清, channel: 3556
-bd_name: , channel: 3557
-bd_name: 天津卫视高清, channel: 3558
-bd_name: , channel: 3559
-bd_name: , channel: 3561
-bd_name: 星元川网导视, channel: 3562
-bd_name: , channel: 3563
-bd_name: 嘉佳卡通, channel: 3568
-bd_name: 精品导视, channel: 3569
-bd_name: , channel: 3570
-bd_name: 中华特产, channel: 3571
-bd_name: 大湾区卫视, channel: 3572
-bd_name: 文物宝库, channel: 3573
-bd_name: 游戏风云, channel: 3574
-bd_name: 游戏风云, channel: 3575
-bd_name: 兵团卫视, channel: 3576
-bd_name: 新疆卫视, channel: 3577
-bd_name: 星空卫视, channel: 3578
-bd_name: , channel: 3579
-bd_name: 藏语卫视, channel: 3580
-bd_name: 延边卫视, channel: 3581
-bd_name: 云南卫视, channel: 3582
-bd_name: 环球奇观, channel: 3583
-bd_name: 中国交通, channel: 3584
-bd_name: 健康风尚, channel: 3585
-bd_name: 求索记录, channel: 3587
-bd_name: 浙江新闻, channel: 3588
-bd_name: 浙江卫视高清, channel: 3589
-bd_name: 央视4k超高清, channel: 3590
-bd_name: 德阳, channel: 3592
-bd_name: 德阳公共频道, channel: 3593
-bd_name: 德阳, channel: 3595
-bd_name: 德阳新闻综合频道, channel: 3596
-bd_name: 广汉新闻, channel: 3597
-bd_name: 旌阳新闻, channel: 3598
-bd_name: 绵竹新闻综合, channel: 3600
-bd_name: 达州导视, channel: 3612
-bd_name: 达州公共频道, channel: 3613
-bd_name: 通川新闻综合, channel: 3614
-bd_name: 达州综合频道, channel: 3615
-bd_name: 朝天新闻综合, channel: 3628
-bd_name: 苍溪, channel: 3629
-bd_name: 苍溪新闻, channel: 3630
-bd_name: 广元公共频道, channel: 3631
-bd_name: 广元综合频道, channel: 3633
-bd_name: 剑阁新闻综合, channel: 3634
-bd_name: 利州台, channel: 3635
-bd_name: 青川新闻综合, channel: 3636
-bd_name: 青川, channel: 3637
-bd_name: 旺苍新闻综合, channel: 3638
-bd_name: 旺苍, channel: 3639
-bd_name: 广元新闻, channel: 3641
-bd_name: 昭化新闻综合, channel: 3642
-bd_name: 利州新闻, channel: 3643
-bd_name: 峨边电视台, channel: 3651
-bd_name: 峨眉新闻, channel: 3652
-bd_name: 夹江新闻, channel: 3653
-bd_name: 金口河电视台, channel: 3654
-bd_name: 井研新闻综合, channel: 3655
-bd_name: 乐山公共新农村, channel: 3656
-bd_name: 乐山新闻综合, channel: 3658
-bd_name: 马边新闻综合, channel: 3659
-bd_name: 沐川新闻, channel: 3660
-bd_name: 犍为新闻综合, channel: 3661
-bd_name: 沙湾新闻综合, channel: 3662
-bd_name: 五通桥新闻综合, channel: 3663
-bd_name: 眉山, channel: 3683
-bd_name: 眉山公共频道, channel: 3685
-bd_name: 眉山综合, channel: 3687
-bd_name: 三台新闻, channel: 3695
-bd_name: 安州高清, channel: 3697
-bd_name: 江油高清, channel: 3703
-bd_name: 绵阳, channel: 3704
-bd_name: 绵阳新闻综合频道, channel: 3705
-bd_name: 绵阳公共频道, channel: 3706
-bd_name: 绵阳2台, channel: 3707
-bd_name: 盐亭电视台, channel: 3710
-bd_name: , channel: 3715
-bd_name: 南充综合频道, channel: 3716
-bd_name: 米易新闻综合, channel: 3725
-bd_name: 攀钢新闻综合, channel: 3726
-bd_name: 攀枝花公共频道, channel: 3727
-bd_name: 攀枝花新闻综合, channel: 3728
-bd_name: 盐边台高清, channel: 3730
-bd_name: 遂宁不知道什么台, channel: 3734
-bd_name: 遂宁公共高清, channel: 3735
-bd_name: 遂宁新闻, channel: 3738
-bd_name: 遂宁综合频道, channel: 3739
-bd_name: 四川凉山, channel: 3744
-bd_name: 凉山新闻频道, channel: 3745
-bd_name: 彝语影视, channel: 3746
-bd_name: 四川凉山, channel: 3747
-bd_name: 攀枝花精彩节目, channel: 3748
-bd_name: 西昌新闻, channel: 3751
-bd_name: 西昌台高清, channel: 3752
-bd_name: 雅安公共频道, channel: 3760
-bd_name: 雅安新闻综合频道, channel: 3761
-bd_name: 长宁综合, channel: 3764
-bd_name: 珙县综合, channel: 3766
-bd_name: 兴文台, channel: 3771
-bd_name: 宜宾公共生活频道, channel: 3774
-bd_name: CGTN 西语, channel: 3788
-bd_name: 星空购物, channel: 3789
-bd_name: 峨眉电影频道4k, channel: 3801
-bd_name: 中国教育4台, channel: 3812
-bd_name: 木里, channel: 3840
-bd_name: 会理, channel: 3849
-bd_name: 广汉, channel: 3857
-bd_name: CGTN, channel: 3864
-bd_name: 仁和, channel: 3873
-bd_name: CCTV16, channel: 3891
-bd_name: CCTV16, channel: 3894
-bd_name: 欢笑剧场, channel: 3911
-bd_name: 宁南, channel: 3914
-bd_name: CGTN西语, channel: 3916
-bd_name: CGTN法语, channel: 3917
-bd_name: CGTN俄语, channel: 3918
-bd_name: 证券资讯, channel: 3920
-bd_name: 购物节目, channel: 3921
-bd_name: 叙州新闻, channel: 3940
-bd_name: 重温经典, channel: 3943
-bd_name: 重温经典高清, channel: 3945
-bd_name: , channel: 3959
-bd_name: 中国交通, channel: 3960
-bd_name: , channel: 3961
-bd_name: , channel: 3968
-bd_name: , channel: 3969
-bd_name: SCTV1, channel: 3978
-bd_name: CCTV2, channel: 3979
-bd_name: CCTV3, channel: 3980
-bd_name: CCTV4, channel: 3981
-bd_name: 聚鲨环球, channel: 3982
-bd_name: CCTV戏曲, channel: 3983
-bd_name: CCTV12, channel: 3984
-bd_name: CCTV13, channel: 3985
-bd_name: CCTV5, channel: 3986
-bd_name: CCTV6, channel: 3987
-bd_name: CCTV7, channel: 3988
-bd_name: CCTV8, channel: 3989
-bd_name: 重温经典, channel: 3990
-bd_name: 峨嵋电影, channel: 3992
-bd_name: SCTV3, channel: 3993
-bd_name: SCTV2, channel: 3994
-bd_name: SCTV4, channel: 3995
-bd_name: SCTV5, channel: 3996
-bd_name: 星空购物, channel: 3997
-bd_name: SCTV7, channel: 3998
-bd_name: SCTV8, channel: 3999
-bd_name: SCTV9, channel: 4000
-bd_name: , channel: 4001
+巴中:3282
+巴中新闻综合:3283
+巴中经济生活:3284
+巴中:3285
+巴州新闻:3287
+巴州-1:3288
+恩阳新闻:3290
+恩阳:3291
+南江新闻综合:3292
+平昌新闻综合:3293
+通江新闻综合:3294
+成都新闻综合频道:3296
+CDTV1:3297
+成都经济资讯频道:3298
+成都都市生活频道:3299
+成都影视文艺频道:3300
+成都公共频道:3301
+CDTV6:3303
+安徽卫视:3326
+安徽卫视高清:3327
+车迷频道:3330
+优优宝贝:3331
+发现之旅:3332
+环球旅游:3333
+聚鲨环球:3334
+聚鲨环球:3335
+北京卫视:3337
+北京卫视高清:3338
+卡酷动画:3339
+纪实科教:3340
+CCTV1:3341
+CCTV1高清:3342
+CCTV10:3343
+CCTV10高清:3344
+CCTV11:3345
+CCTV12:3347
+CCTV12高清:3348
+CCTV2:3350
+CCTV2高清:3351
+CCTV3:3352
+CCTV3高清:3353
+CCTV4:3355
+CCTV4高清:3356
+CCTV5:3357
+CCTV5+:3358
+CCTV5高清:3359
+CCTV6:3360
+CCTV6高清:3361
+CCTV7:3362
+CCTV7高清:3363
+CCTV8:3364
+CCTV8高清:3365
+CCTV9:3366
+CCTV9高清:3367
+CCTV15:3368
+CCTV13:3369
+CCTV14:3370
+CCTV14高清:3371
+第一剧场:3374
+风云剧场:3375
+风云音乐:3376
+风云足球:3377
+高尔夫网球:3378
+国防军事:3379
+怀旧剧场:3380
+老故事:3381
+女性时尚:3383
+中国天气:3384
+书画:3385
+世界地理:3386
+央视精品:3388
+央视台球:3389
+中学生高清:3391
+cetv1:3392
+cetv1高清:3393
+cetv2:3394
+早期教育:3395
+天元围棋:3397
+重庆卫视:3398
+重庆卫视高清:3399
+重庆娱乐:3400
+重庆汽摩:3401
+现代女性:3403
+四海钓鱼:3404
+凤凰中文台:3405
+凤凰资讯台:3407
+东南卫视高清:3410
+广东卫视高清:3415
+CHC动作电影:3416
+CHC高清电影:3418
+CHC家庭影院:3419
+甘肃卫视:3421
+广西卫视:3424
+贵州卫视高清:3426
+河北卫视高清:3430
+河南卫视:3431
+梨园:3432
+武术世界:3433
+文物宝库:3434
+黑龙江卫视:3435
+黑龙江卫视高清:3436
+湖北卫视高清:3439
+茶:3441
+湖南卫视高清:3442
+湖南卫视高清:3443
+金鹰纪实:3444
+金鹰卡通:3446
+快乐垂钓高清:3448
+先锋乒羽:3450
+吉林卫视:3451
+财富天下:3453
+优漫卡通:3456
+江苏卫视:3457
+江苏卫视高清:3458
+风尚购物:3465
+江西卫视:3466
+江西卫视高清:3467
+辽宁卫视:3470
+辽宁卫视高清:3471
+家庭理财:3472
+新动漫:3473
+青海卫视:3474
+内蒙古卫视:3476
+宁夏卫视:3478
+中华美食高清:3490
+青海卫视:3491
+峨嵋电影频道:3492
+四川卫视:3495
+四川卫视高清:3496
+四川文化旅游:3497
+sctv2高清:3498
+sctv3高清:3500
+四川新闻资讯频道:3501
+四川影视高清:3504
+四川妇女儿童频道:3506
+四川科教频道:3508
+四川公共频道:3509
+山东教育:3512
+山东卫视:3513
+山东卫视高清:3514
+陕西卫视:3515
+陕西农林卫视:3516
+上视纪实:3517
+上视纪实高清:3518
+东方财经:3519
+上海:3520
+东方卫视高清:3521
+法制天地:3523
+七彩戏剧:3528
+生态环境:3530
+动漫秀场:3531
+动漫秀场高清:3532
+欢笑剧场:3533
+欢笑剧场高清:3534
+金色学堂:3535
+全纪实:3537
+全纪实高清:3538
+生活时尚:3539
+生活时尚高清:3540
+新视觉:3543
+新视觉高清:3544
+劲爆体育:3545
+劲爆体育高清:3546
+都市剧场:3547
+都市剧场高清:3548
+山西卫视:3551
+深圳卫视:3555
+深圳卫视高清:3556
+天津卫视高清:3558
+星元川网导视:3562
+嘉佳卡通:3568
+精品导视:3569
+中华特产:3571
+大湾区卫视:3572
+文物宝库:3573
+游戏风云:3574
+游戏风云:3575
+兵团卫视:3576
+新疆卫视:3577
+星空卫视:3578
+藏语卫视:3580
+延边卫视:3581
+云南卫视:3582
+环球奇观:3583
+中国交通:3584
+健康风尚:3585
+求索记录:3587
+浙江新闻:3588
+浙江卫视高清:3589
+央视4k超高清:3590
+德阳:3592
+德阳公共频道:3593
+德阳:3595
+德阳新闻综合频道:3596
+广汉新闻:3597
+旌阳新闻:3598
+绵竹新闻综合:3600
+达州导视:3612
+达州公共频道:3613
+通川新闻综合:3614
+达州综合频道:3615
+朝天新闻综合:3628
+苍溪:3629
+苍溪新闻:3630
+广元公共频道:3631
+广元综合频道:3633
+剑阁新闻综合:3634
+利州台:3635
+青川新闻综合:3636
+青川:3637
+旺苍新闻综合:3638
+旺苍:3639
+广元新闻:3641
+昭化新闻综合:3642
+利州新闻:3643
+峨边电视台:3651
+峨眉新闻:3652
+夹江新闻:3653
+金口河电视台:3654
+井研新闻综合:3655
+乐山公共新农村:3656
+乐山新闻综合:3658
+马边新闻综合:3659
+沐川新闻:3660
+犍为新闻综合:3661
+沙湾新闻综合:3662
+五通桥新闻综合:3663
+眉山:3683
+眉山公共频道:3685
+眉山综合:3687
+三台新闻:3695
+安州高清:3697
+江油高清:3703
+绵阳:3704
+绵阳新闻综合频道:3705
+绵阳公共频道:3706
+绵阳2台:3707
+盐亭电视台:3710
+南充综合频道:3716
+米易新闻综合:3725
+攀钢新闻综合:3726
+攀枝花公共频道:3727
+攀枝花新闻综合:3728
+盐边台高清:3730
+遂宁不知道什么台:3734
+遂宁公共高清:3735
+遂宁新闻:3738
+遂宁综合频道:3739
+四川凉山:3744
+凉山新闻频道:3745
+彝语影视:3746
+四川凉山:3747
+攀枝花精彩节目:3748
+西昌新闻:3751
+西昌台高清:3752
+雅安公共频道:3760
+雅安新闻综合频道:3761
+长宁综合:3764
+珙县综合:3766
+兴文台:3771
+宜宾公共生活频道:3774
+CGTN 西语:3788
+星空购物:3789
+峨眉电影频道4k:3801
+中国教育4台:3812
+木里:3840
+会理:3849
+广汉:3857
+CGTN:3864
+仁和:3873
+CCTV16:3891
+CCTV16:3894
+欢笑剧场:3911
+宁南:3914
+CGTN西语:3916
+CGTN法语:3917
+CGTN俄语:3918
+证券资讯:3920
+购物节目:3921
+叙州新闻:3940
+重温经典:3943
+重温经典高清:3945
+中国交通:3960
+SCTV1:3978
+CCTV2:3979
+CCTV3:3980
+CCTV4:3981
+聚鲨环球:3982
+CCTV戏曲:3983
+CCTV12:3984
+CCTV13:3985
+CCTV5:3986
+CCTV6:3987
+CCTV7:3988
+CCTV8:3989
+重温经典:3990
+峨嵋电影:3992
+SCTV3:3993
+SCTV2:3994
+SCTV4:3995
+SCTV5:3996
+星空购物:3997
+SCTV7:3998
+SCTV8:3999
+SCTV9:4000
+
