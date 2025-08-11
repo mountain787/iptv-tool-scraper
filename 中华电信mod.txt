@@ -1,0 +1,185 @@
+民視HD:005
+人間衛視HD:006
+台視HD:007
+大愛電視HD:008
+中視HD:009
+華視HD:011
+公視(HD):012
+公視台語台HD:141
+好消息HD:002
+原住民族電視HD:003
+客家電視HD:004
+華視教育體育文化台:010
+公視兒少台HD:142
+大愛二台HD:095
+CARTOONITO HD:018
+ELTV生活英語台:019
+龍華動畫HD:020
+尼克兒童頻道HD:021
+靖洋卡通台Nice Bingo HD:022
+靖天卡通台 HD:023
+Cbeebies HD:114
+達文西頻道HD:115
+Nick Jr.:116
+DREAMWORKS:201
+國會頻道1HD:118
+國會頻道2HD:119
+Fun探索娛樂台 4K:293
+Medici-arts HD:108
+MTV Live HD:109
+MTV綜合台HD:111
+Mezzo Live:112
+TRACE Urban HD:113
+古典音樂台HD:184
+CMusic:230
+愛爾達體育1台:158
+愛爾達體育2台:157
+愛爾達體育3台:156
+愛爾達體育4台:282
+博斯高球一台:164
+博斯高球二台:163
+博斯網球HD:160
+博斯魅力HD:159
+博斯無限台HD:161
+博斯無限二台:170
+TRACE Sport Stars HD:172
+DAZN 3:202
+博斯運動一台:162
+博斯運動二台HD:167
+DAZN 2:203
+智林體育HD:168
+EUROSPORT HD:214
+麥哲倫頻道 HD:286
+LOVE NATURE 4K:233
+BBC Earth HD:015
+Discovery Asia HD:099
+Discovery科學HD:100
+DMAX HD:101
+EVE HD:102
+Global Trekker HD:280
+歷史頻道HD:104
+罪案偵緝頻道HD:105
+BBC Lifestyle HD:120
+INULTRA:283
+PET CLUB TV HD:235
+LUXE TV HD:126
+Lifetime HD:139
+KLT-靖天國際台HD:083
+幸福空間居家台:211
+滾動力 rollor:217
+HGTV居家樂活頻道:234
+車迷TV HD:292
+美食星球HD:037
+亞洲美食頻道:086
+Food Network 美食台HD:130
+亞洲旅遊HD:034
+EYE TV旅遊台HD:080
+Travel Channel HD:089
+Fashion TV HD:096
+TV5MONDE STYLE HD 生活時尚:204
+愛爾達綜合台HD:024
+三立綜合台HD:025
+靖天資訊HD:026
+靖天綜合台HD:027
+靖天育樂HD:028
+Smart 知識HD:030
+台視綜合:031
+亞洲綜合HD:032
+中視經典台HD:033
+寰宇HD綜合:035
+中視菁采台HD:038
+TVBS精采台HD:039
+壹電視綜合 HD:048
+緯來精采HD:134
+天天電視HD:087
+ETtoday綜合台:088
+民視第一台HD:132
+民視台灣台HD:133
+Nice TV 靖天歡樂台:131
+新唐人亞太台:137
+八大優頻道:231
+momo綜合台HD:291
+momo2台HD:209
+東森購物3台HD:079
+三立戲劇台HD:040
+台灣戲劇HD:041
+龍華戲劇HD:042
+龍華偶像HD:043
+龍華影劇HD:060
+愛爾達影劇台HD:044
+靖天戲劇HD:045
+靖洋戲劇HD:046
+EYE TV戲劇台HD:047
+東森購物2台HD:036
+靖天日本HD:084
+曼迪日本台HD:091
+Animax:093
+OUTtv HD:295
+tvN HD:092
+韓國娛樂台KMTV HD:128
+華藝中文台:225
+ROCK Extreme:223
+ROCK Entertainment:229
+美好2台:224
+momo1台HD:210
+東森購物4台HD:206
+中視新聞HD:049
+寰宇新聞HD:050
+寰宇新聞台灣台HD:051
+台視新聞HD:052
+三立財經新聞台HD:053
+華視新聞資訊HD:054
+壹電視新聞HD:055
+民視新聞台HD:208
+鏡電視新聞台:264
+寰宇財經HD:056
+台視財經HD:082
+美好1台HD:057
+東森購物5台HD:207
+CNNI HD:143
+BBC NEWS HD:144
+Bloomberg:145
+Channel NewsAsia:146
+CNBC Asia:147
+Euronews:148
+德國之聲:149
+FRANCE24E HD:150
+TaiwanPlus:272
+NHK新聞資訊台HD:216
+半島英語新聞台Al Jazeera English HD:212
+東森購物1台HD:029
+視納華仁紀實台HD:123
+影迷數位紀實台HD:124
+美亞電影HD:058
+龍華電影HD:059
+靖天映畫HD:064
+靖天電影HD:065
+龍華洋片HD:062
+Warner TV HD:063
+ROCK Action HD:284
+wedotv Movies HD:296
+amc電影台:068
+HITS HD:215
+龍華經典HD:075
+華藝影劇台:076
+CatchPlay HD:077
+CinemaWorld HD:078
+壹電視電影台HD:153
+采昌影劇台HD:135
+影迷數位電影台HD:154
+MCE 我的歐洲電影台:213
+唯心電視HD:177
+佛衛慈悲台:173
+華藏衛視HD:174
+正德電視台HD:176
+信吉電視台:275
+冠軍電視台:218
+華藝台灣台 HD:274
+信吉藝文台HD:258
+大立電視台 HD:276
+富立電視台HD:281
+新天地民俗台 HD:290
+天良綜合台 HD:294
+TV5MONDE:178
+Arirang TV HD:179
+FRANCE24F:183
